@@ -20,7 +20,7 @@ messages=[
     """}
 ]
 
-file_path="个人简历-司缘锐 -QA.txt"
+file_path="resume.txt"
 
 print(f"简历优化助手已上线（读取文件：{file_path}）---")
 while True:
